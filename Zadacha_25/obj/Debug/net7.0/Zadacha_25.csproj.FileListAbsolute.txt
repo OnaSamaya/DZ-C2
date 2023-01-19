@@ -1,0 +1,15 @@
+C:\Users\79259\Desktop\для гита\dz_c#\Seminar_4\Zadacha_25\bin\Debug\net7.0\Zadacha_25.exe
+C:\Users\79259\Desktop\для гита\dz_c#\Seminar_4\Zadacha_25\bin\Debug\net7.0\Zadacha_25.deps.json
+C:\Users\79259\Desktop\для гита\dz_c#\Seminar_4\Zadacha_25\bin\Debug\net7.0\Zadacha_25.runtimeconfig.json
+C:\Users\79259\Desktop\для гита\dz_c#\Seminar_4\Zadacha_25\bin\Debug\net7.0\Zadacha_25.dll
+C:\Users\79259\Desktop\для гита\dz_c#\Seminar_4\Zadacha_25\bin\Debug\net7.0\Zadacha_25.pdb
+C:\Users\79259\Desktop\для гита\dz_c#\Seminar_4\Zadacha_25\obj\Debug\net7.0\Zadacha_25.csproj.AssemblyReference.cache
+C:\Users\79259\Desktop\для гита\dz_c#\Seminar_4\Zadacha_25\obj\Debug\net7.0\Zadacha_25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79259\Desktop\для гита\dz_c#\Seminar_4\Zadacha_25\obj\Debug\net7.0\Zadacha_25.AssemblyInfoInputs.cache
+C:\Users\79259\Desktop\для гита\dz_c#\Seminar_4\Zadacha_25\obj\Debug\net7.0\Zadacha_25.AssemblyInfo.cs
+C:\Users\79259\Desktop\для гита\dz_c#\Seminar_4\Zadacha_25\obj\Debug\net7.0\Zadacha_25.csproj.CoreCompileInputs.cache
+C:\Users\79259\Desktop\для гита\dz_c#\Seminar_4\Zadacha_25\obj\Debug\net7.0\Zadacha_25.dll
+C:\Users\79259\Desktop\для гита\dz_c#\Seminar_4\Zadacha_25\obj\Debug\net7.0\refint\Zadacha_25.dll
+C:\Users\79259\Desktop\для гита\dz_c#\Seminar_4\Zadacha_25\obj\Debug\net7.0\Zadacha_25.pdb
+C:\Users\79259\Desktop\для гита\dz_c#\Seminar_4\Zadacha_25\obj\Debug\net7.0\Zadacha_25.genruntimeconfig.cache
+C:\Users\79259\Desktop\для гита\dz_c#\Seminar_4\Zadacha_25\obj\Debug\net7.0\ref\Zadacha_25.dll
